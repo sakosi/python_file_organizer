@@ -81,6 +81,4 @@ Downloads/
     └── notes.txt
 ```
 
-## Portfolio Description
 
-> **Python File Organizer** is a utility for automatically sorting files in a selected folder. The program monitors new files and distributes them into categories based on file extensions. It includes logging, filename-conflict handling, and a configurable target folder.
